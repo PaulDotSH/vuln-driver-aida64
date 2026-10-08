@@ -61,9 +61,6 @@ process), which I'm **not** publishing, for the same reason.
 
 ## Disclosure status
 
-  [magicsword-io/LOLDrivers#449](https://github.com/magicsword-io/LOLDrivers/issues/449) —
-  this report turned out to be incorrect (wrong driver details) and was
-  superseded.
 - Report:
   [magicsword-io/LOLDrivers#461](https://github.com/magicsword-io/LOLDrivers/issues/461).
 - This has been reported to MITRE for a CVE/advisory update, referencing the
